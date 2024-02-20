@@ -8,5 +8,6 @@ public class Application {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.next();
         System.out.println("Привет, " + name + "!");
+        System.out.println("Пока");
     }
 }
