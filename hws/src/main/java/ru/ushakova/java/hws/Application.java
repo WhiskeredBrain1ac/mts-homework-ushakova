@@ -1,4 +1,5 @@
 package ru.ushakova.java.hws;
+
 import java.util.Scanner;
 
 public class Application {
